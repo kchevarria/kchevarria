@@ -1,4 +1,10 @@
-### Hi there 👋
+## Olá 👋
+
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kchevarria&show_icons=true&theme=calm&includeallcommits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kchevarria&layout=compact&langs_count=16&theme=calm" />
+</div>
 
 <!--
 **kchevarria/kchevarria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
