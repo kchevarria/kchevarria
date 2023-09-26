@@ -1,9 +1,8 @@
 ## Olá 👋
 
-
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kchevarria&show_icons=true&theme=calm&includeallcommits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kchevarria&layout=compact&langs_count=16&theme=calm" />
+  <img height="190em" width="45%" src="https://github-readme-stats.vercel.app/api?username=kchevarria&show_icons=true&theme=calm&includeallcommits=true&count_private=true">
+  <img height="190em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kchevarria&layout=compact&langs_count=16&theme=calm">
 </div>
 
 <!--
